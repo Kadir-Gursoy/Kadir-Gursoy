@@ -30,11 +30,11 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
 - Ask me anything about **React - Javascript - HTML5, CSS3 - Third party CSS libraries**.
 
 - <p>
-  <a href="https://vercel.com/dashboard" {:target="_blank"}>Click to view my projects live</a>
+  <a href="https://vercel.com/dashboard" >Click to view my projects live</a>
 </p>
 
 ### 📬 Connect with me: 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white){:target="_blank"}](https://www.linkedin.com/in/a-kadir-g%C3%BCrsoy-9873a9205/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-kadir-g%C3%BCrsoy-9873a9205/)
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:gursoya.kadir@gmail.com)
 ![](https://komarev.com/ghpvc/?username=KadirGursoy&color=blue&style=for-the-badge)
 
@@ -46,7 +46,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
 </div>
 <!--tech stack icons-->
 <p >
-  <a href="https://skillicons.dev" target="_blank">
+  <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,c,java,linux,mysql,postman,github,vercel,vite,git,vscode,figma&perline=15" />
   </a>
 </p>
