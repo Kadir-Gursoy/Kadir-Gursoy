@@ -46,7 +46,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
 </div>
 <!--tech stack icons-->
 <p >
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,c,java,linux,mysql,postman,github,vercel,vite,git,vscode,figma&perline=15" />
   </a>
 </p>
