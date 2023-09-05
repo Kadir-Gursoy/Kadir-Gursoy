@@ -16,7 +16,8 @@ I am currently working towards becoming a Full-Stack Developer.
 
 Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-party CSS libraries.
 
-📬 Contact me at: (Your contact information)
+### 📬 Connect with me: 
+(Your contact information)
 </h4>
    
 
@@ -33,12 +34,12 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
   <a href="https://vercel.com/dashboard">Click to view my projects live</a>
 </p>
 
-📬 Connect with me: 
+### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-kadir-g%C3%BCrsoy-9873a9205/)
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:gursoya.kadir@gmail.com)
 ![](https://komarev.com/ghpvc/?username=KadirGursoy&color=blue&style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+
 <div id="user-content-toc">
   <ul>
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
