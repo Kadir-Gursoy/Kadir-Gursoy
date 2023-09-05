@@ -21,7 +21,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
    
 
 
- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture>
+ <picture> <img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" align="right"  width = 500px /> </picture>
 
 - I am doing my final year project for a Bachelor's degree in Computer Science.
   
@@ -45,7 +45,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,c,java,linux,mysql,postman,github,vercel,vite,git,vscode,figma&perline=15" />
   </a>
