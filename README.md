@@ -34,7 +34,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
 </p>
 
 ### 📬 Connect with me: 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-kadir-g%C3%BCrsoy-9873a9205/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white){:target="_blank"}](https://www.linkedin.com/in/a-kadir-g%C3%BCrsoy-9873a9205/)
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:gursoya.kadir@gmail.com)
 ![](https://komarev.com/ghpvc/?username=KadirGursoy&color=blue&style=for-the-badge)
 
