@@ -16,8 +16,7 @@ I am currently working towards becoming a Full-Stack Developer.
 
 Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-party CSS libraries.
 
-### 📬 Connect with me: 
-(Your contact information)
+
 </h4>
    
 
