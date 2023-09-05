@@ -30,7 +30,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
 - Ask me anything about **React - Javascript - HTML5, CSS3 - Third party CSS libraries**.
 
 - <p>
-  <a href="https://vercel.com/dashboard" target="_blank">Click to view my projects live</a>
+  <a href="https://vercel.com/dashboard" {:target="_blank"}>Click to view my projects live</a>
 </p>
 
 ### 📬 Connect with me: 
