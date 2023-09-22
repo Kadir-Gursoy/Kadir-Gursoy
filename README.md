@@ -10,7 +10,7 @@
 
 
 
-<h4 style="display: inline-block; align="center""> Hello, welcome to my GitHub profile! I have a great passion for web programming. I am constantly learning new technologies and frameworks and conducting experiments to find the best solutions to problems.
+<h4 style="display: inline-block; align="center"> Hello, welcome to my GitHub profile! I have a great passion for web programming. I am constantly learning new technologies and frameworks and conducting experiments to find the best solutions to problems.
 
 I am currently working towards becoming a Full-Stack Developer.
 
