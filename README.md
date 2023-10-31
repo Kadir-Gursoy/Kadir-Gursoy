@@ -23,7 +23,7 @@ Feel free to ask any questions about React, JavaScript, HTML5, CSS3, or third-pa
 
  <picture> <img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" align="right"  width = 500px /> </picture>
 
-- I am doing my final year project for a Bachelor's degree in Computer Science.
+- I am developing projects in the field of frontend development.
   
 - I’m currently working on **becoming a Full-Stack Developer**.
   
