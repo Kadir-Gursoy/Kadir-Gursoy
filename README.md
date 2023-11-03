@@ -4,7 +4,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary> <img src = "./assets/img/about_me.gif" width = 50px ><h2 style="display: inline-block">About me</h2></summary>
+    <summary> <img src = "./assets/img/about_me.gif" width = 50px ><h2 style="display: inline-block">About me and projects</h2></summary>
   </ul>
 </div>
 
