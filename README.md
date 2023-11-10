@@ -26,7 +26,7 @@ This adds a bit more personality and a specific project highlight to your profil
 
 - I am developing projects in the field of frontend development.
   
-- I’m currently working on **becoming a Full-Stack Developer**.
+
   
 - Ask me anything about **React - Javascript - HTML5, CSS3 - Third party CSS libraries**.
 
