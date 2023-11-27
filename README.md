@@ -16,7 +16,6 @@ One project that I'm particularly proud of is [stockApp], where I [A project tha
 
 Feel free to ask me anything about React, JavaScript, HTML5, CSS3, or even dive into discussions about third-party CSS libraries. Let's code and create together!"
 
-This adds a bit more personality and a specific project highlight to your profile, making it more engaging for visitors.
 
 </h4>
    
