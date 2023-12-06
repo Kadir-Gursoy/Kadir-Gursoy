@@ -35,7 +35,7 @@ Feel free to ask me anything about React, JavaScript, HTML5, CSS3, or even dive 
 </p>
 
 ### 📬 Connect with me: 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-g%C3%BCrsoy-b376b7298/)
+_[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-g%C3%BCrsoy-b376b7298/)_
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:gursoya.kadir@gmail.com)
 ![](https://komarev.com/ghpvc/?username=KadirGursoy&color=blue&style=for-the-badge)
 
